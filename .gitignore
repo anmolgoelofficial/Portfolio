@@ -1,0 +1,9 @@
+clnode_modules
+node_modules
+
+# next-video
+videos/*
+!videos/*.json
+!videos/*.js
+!videos/*.ts
+public/_next-video

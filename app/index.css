@@ -1,0 +1,9 @@
+body {
+    overflow: scroll;
+}
+body::-webkit-scrollbar {
+    width: 0.5px;
+}
+body::-webkit-scrollbar-track {
+    width:0.5px
+}
