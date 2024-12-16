@@ -4,7 +4,7 @@ const BlockPage = () => {
     return (
         <>
         <div className="flex justify-center items-center h-[68vh]">
-        <span className="text-2xl font-bold text-primary">Comming soon....</span>
+        <span className="text-2xl font-bold text-primary">Coming Soon!</span>
         {/* <Image src={image404} alt="blogimg"/> */}
         </div>
         </>

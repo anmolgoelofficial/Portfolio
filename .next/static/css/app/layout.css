@@ -1100,9 +1100,6 @@ video {
 .bg-hero_shape2_light {
   background-image: url(/hero/shape-2-light.svg);
 }
-.bg-contact_illustration_dark {
-  background-image: url(/contact/illustration-dark.svg);
-}
 .bg-contain {
   background-size: contain;
 }
